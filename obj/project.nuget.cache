@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBq1L8gICPNs04CUAOFvY6pmweOvOniQwweVfmHb0cx5+alj46Q9qYINApzMLXnFqbqwSYT5jUd9UTDwpE4CYA==",
+  "success": true,
+  "projectFilePath": "E:\\C#_project\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Drulavan\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Drulavan\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
